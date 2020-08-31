@@ -10,6 +10,7 @@ Requirements
 ------------
 Python 3.5 or higher 
 TensorFlow 1.14 or 1.15
+
 pip install tensorflow-privacy
 
 
