@@ -21,5 +21,5 @@ Steps to execute
 
 ![alt text](https://i1.wp.com/miro.medium.com/max/3160/1*86qGRsUqBfV2wMh13OJ2Rw.png?w=525&ssl=1)
 
-4. L1 Kernel Regularization can be used to diminish the effect of overfitting and loweringthe attack accuracy.
+4. L1 (Kernel Regularization parameter) can be tweaked to diminish the effect of overfitting and lower the attack accuracy.
 5. Both the models are trained with Differential privacy using DPGradientDescentGaussianOptimizer
