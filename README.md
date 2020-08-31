@@ -1,10 +1,16 @@
 # Membership_Inference_Attack_DP
 
-Acknowledgemnet and Reference : This code relies on the research work done by. and its github https://github.com/work-hard-play-harder/DP-MIA
+Acknowledgemnet and Reference : This code relies on the research work done as https://www.biorxiv.org/content/10.1101/2020.08.03.235416v1.full. and its github https://github.com/work-hard-play-harder/DP-MIA
 
 This repository adds an extra feature of testing privacy related ML attacks by building multi-class classificatuion models using Differential privacy.
 
 This repository contains 2 models CNN and LSTM trained using Multi-class classification problem using DIfferential Privacy (with loss function as SparseCategoricalCrossentropy)
+
+Requirements
+------------
+Python 3.5 or higher 
+TensorFlow 1.14 or 1.15
+
 
 Steps to execute
 -----------------
